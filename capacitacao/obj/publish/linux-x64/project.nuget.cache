@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3uxLzx12RG1pb/HggYrk6GqFdmqH1Dy61Wh/xMOn7LeeIlYBidDW+W7tguy2CLYDXx1xFmSaNHoW1XiNN50+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\source\\repos\\capacitacao\\capacitacao\\capacitacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.3\\microsoft.netcore.app.host.linux-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

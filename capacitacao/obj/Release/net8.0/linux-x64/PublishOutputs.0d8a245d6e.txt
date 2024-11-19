@@ -1,0 +1,7 @@
+C:\Users\marco\source\repos\capacitacao\capacitacao\obj\Release\net8.0\linux-x64\PubTmp\Out\capacitacao
+C:\Users\marco\source\repos\capacitacao\capacitacao\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\marco\source\repos\capacitacao\capacitacao\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\marco\source\repos\capacitacao\capacitacao\obj\Release\net8.0\linux-x64\PubTmp\Out\capacitacao.dll
+C:\Users\marco\source\repos\capacitacao\capacitacao\obj\Release\net8.0\linux-x64\PubTmp\Out\capacitacao.deps.json
+C:\Users\marco\source\repos\capacitacao\capacitacao\obj\Release\net8.0\linux-x64\PubTmp\Out\capacitacao.runtimeconfig.json
+C:\Users\marco\source\repos\capacitacao\capacitacao\obj\Release\net8.0\linux-x64\PubTmp\Out\capacitacao.pdb
